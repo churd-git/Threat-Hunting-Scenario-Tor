@@ -175,3 +175,25 @@ On January 6, 2025, the user interncr on device windowsvm-mde-c downloaded and i
 TOR usage was confirmed on the endpoint `windowsvm-mde-c` by the user `interncr`. The device was isolated, and the user's direct manager was notified.
 
 ---
+
+## Created By:
+- **Author Name**: Carlton Hurd
+- **Author Contact**: https://www.linkedin.com/in/carlton-hurd-6069a5120/
+- **Date**: January 29th, 2025
+
+## Validated By:
+- **Reviewer Name**: Carlton Hurd
+- **Reviewer Contact**: 
+- **Validation Date**: January 29th, 2025 
+
+---
+
+## Additional Notes:
+- **None**
+
+---
+
+## Revision History:
+| **Version** | **Changes**                   | **Date**         | **Modified By**   |
+|-------------|-------------------------------|------------------|-------------------|
+| 1.0         | Initial draft                  | `January  29th, 2025`  | `Carlton Hurd`   
